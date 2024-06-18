@@ -38,8 +38,12 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
+    - I have attached a pdf file in this repo on github, please check
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
+   [github link](https://github.com/Snevy1/powerLearn_test_repo)
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
+    Python installation: I had a problem on setting up PATH for python in the environment variables but I managed to
+    MySQL Client: I had trouble using MySQL command line client
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
